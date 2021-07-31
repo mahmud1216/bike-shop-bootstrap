@@ -1,0 +1,26 @@
+.little-havey-font {
+  font-weight: 500;
+}
+
+.bike-header-bg {
+  background-color: #264653;
+}
+
+.bike-btn-bg {
+  background-color: #e76f51;
+  font-weight: 500;
+  color: white;
+}
+.bike-primary-color {
+  color: #e76f51;
+}
+
+.fetured-bike img {
+  filter: grayscale(100%);
+  transition: 1s;
+  cursor: pointer;
+}
+
+.fetured-bike img:hover {
+  filter: grayscale(0%);
+}
